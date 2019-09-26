@@ -5,19 +5,19 @@
   "dependencies": {},
   "description": "upload file to aliyun oss",
   "devDependencies": {},
-  "homepage": "https://github.com/SpadeGod/react-native-aliyun-oss#readme",
+  "homepage": "https://github.com/431910864/react-native-aliyun-oss#readme",
   "keywords": [
     "aliyun",
     "oss"
   ],
   "license": "MIT",
   "main": "index.js",
-  "name": "react-native-aliyun-oss-cp",
+  "name": "react-native-aliyun-oss-cp1",
   "optionalDependencies": {},
   "repository" :  
   { 
     "type" : "git", 
-    "url" : "https://github.com/SpadeGod/react-native-aliyun-oss"  
+    "url" : "https://github.com/431910864/react-native-aliyun-oss"
   },
   "version": "1.0.6"
 }
