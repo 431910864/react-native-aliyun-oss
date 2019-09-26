@@ -1,11 +1,11 @@
 # react-native-aliyun-oss
 
 [![travis](https://travis-ci.org/SpadeGod/react-native-aliyun-oss.svg?branch=master)](https://travis-ci.org/SpadeGod/react-native-aliyun-oss)
-[![npm](https://img.shields.io/badge/npm-1.0.6-blue.svg)](https://www.npmjs.com/package/react-native-aliyun-oss-cp)
+[![npm](https://img.shields.io/badge/npm-1.0.6-blue.svg)](https://www.npmjs.com/package/react-native-aliyun-oss-cp1)
 
 # 安装
 ```
-npm install --save react-native-aliyun-oss-cp
+npm install --save react-native-aliyun-oss-cp1
 ```
 link libaray in your android and IOS project
 
@@ -21,7 +21,7 @@ SystemConfiguration.framework
 
 ```javascript
 
-import AliyunOSS from 'react-native-aliyun-oss-cp'
+import AliyunOSS from 'react-native-aliyun-oss-cp1'
 
 AliyunOSS.enableOSSLog();
     const config = {

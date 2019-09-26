@@ -1,7 +1,5 @@
 {
-  "author": {
-    "name": "431910864"
-  },
+  "author": "431910864",
   "dependencies": {},
   "description": "upload file to aliyun oss",
   "devDependencies": {},
@@ -14,10 +12,15 @@
   "main": "index.js",
   "name": "react-native-aliyun-oss-cp1",
   "optionalDependencies": {},
-  "repository" :  
-  { 
-    "type" : "git", 
-    "url" : "https://github.com/431910864/react-native-aliyun-oss"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/431910864/react-native-aliyun-oss.git"
   },
-  "version": "1.0.6"
+  "version": "1.0.6",
+  "bugs": {
+    "url": "https://github.com/431910864/react-native-aliyun-oss/issues"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
 }
